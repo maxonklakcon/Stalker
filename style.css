@@ -1,0 +1,42 @@
+.layer {
+    padding: 35px;
+}
+
+body {
+    background: url("мясорубка.jpg");
+    color: rgba(226,207,71,0.8);
+}
+
+a {
+    color: aliceblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-size: 1.25em;
+    text-align: justify;
+    margin: 10px 0px 10px 0px;
+}
+
+a:visited {
+    color: coral;
+}
+
+ol {
+    list-style-type: decimal;
+    font-size: 1.4em;
+    text-decoration: underline;
+    color: aliceblue;
+    margin: 10px 0px 10px 0px;
+}
+
+header {
+    text-align: center;
+    color: #d2ff12;
+}
+video {
+    margin-left: 200px;
+}
